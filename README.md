@@ -1,3 +1,3 @@
 - 👋 Salut! Eu sunt @AlexMAIM
-- 👀 Detin un server de Fivem: RoCra Romania Roleplay
+- 👀 Detin un server de Fivem: PRUF Romania Roleplay
 - 📫 Pentru a discuta, trimite un mail: alexmargoi5555@yahoo.com
