@@ -1,3 +1,5 @@
-- 👋 Salut! Eu sunt @AlexMAIM
-- 👀 Detin un server de Fivem: PRUF Romania Roleplay
-- 📫 Pentru a discuta, trimite un mail: alexmargoi5555@yahoo.com
+- 👋 Hello! My name is, @AlexMAIM
+- 📫 For inquiries or collaboration, contact me at: alexmargoi5555@yahoo.com
+- 🏫 Mechatronics & Robotics Student at the University of Craiova
+- 💻 Passionate about C, C++, Python, C# and Database Design (SQL)
+- 🤖 Exploring the intersection of Hardware and Software
