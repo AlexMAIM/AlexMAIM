@@ -1,5 +1,5 @@
 - 👋 Hello! My name is, @AlexMAIM
 - 📫 For inquiries or collaboration, contact me at: alexmargoi5555@yahoo.com
 - 🏫 Mechatronics & Robotics Student at the University of Craiova
-- 💻 Passionate about C, C++, Python, C# and Database Design (SQL)
+- 💻 Passionate about microcontrollers (Arduino & ESP32), C, C++
 - 🤖 Exploring the intersection of Hardware and Software
