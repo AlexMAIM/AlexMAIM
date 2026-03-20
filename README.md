@@ -1,5 +1,5 @@
-👋 Hello! My name is, @AlexMAIM
-🤖 Exploring the intersection of Hardware and Software
-🏫 Mechatronics & Robotics Student at the University of Craiova
-💻 Passionate about microcontrollers (Arduino, ESP32, STM32, Raspberry Pico), programming (C,C++) and Vacation
-📫 For inquiries or collaboration, contact me at: alexmargoi5555@yahoo.com
+-👋 Hello! My name is, @AlexMAIM
+-🤖 Exploring the intersection of Hardware and Software
+-🏫 Mechatronics & Robotics Student at the University of Craiova
+-💻 Passionate about microcontrollers (Arduino, ESP32, STM32, Raspberry Pico), programming (C,C++) and Vacation
+-📫 For inquiries or collaboration, contact me at: alexmargoi5555@yahoo.com
