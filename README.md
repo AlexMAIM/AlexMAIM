@@ -4,7 +4,7 @@
 
 💻 Working/Learning with: Arduino, ESP32 and others
 
-⚙️ Programming in C,C++,Java,Python and others
+⚙️ Programming in C, C++, Java, Python and others
 
 🚀 Interested in robotics, automation, and real-world hardware projects
 
