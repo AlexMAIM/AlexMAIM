@@ -2,9 +2,9 @@
 
 🤖 Mechatronics & Robotics student at the University of Craiova
 
-💻 Working/Learning with: Arduino, ESP32, STM32, ESP8266, Raspberry Pi Pico
+💻 Working/Learning with: Arduino, ESP32 and others
 
-⚙️ Programming in C/C++
+⚙️ Programming in C,C++,Java,Python and others
 
 🚀 Interested in robotics, automation, and real-world hardware projects
 
